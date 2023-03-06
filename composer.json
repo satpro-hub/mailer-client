@@ -1,5 +1,5 @@
 {
-  "name": "gresm/mailer-client",
+  "name": "newtonru/mailer-client",
   "description": "Client for ms-mailer service",
   "keywords": [
     "framework",
