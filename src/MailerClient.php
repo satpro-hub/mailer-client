@@ -1,6 +1,6 @@
 <?php
 
-namespace Gresm\App;
+namespace Satpro\Mailer;
 
 class MailerClient
 {
