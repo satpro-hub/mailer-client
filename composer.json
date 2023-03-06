@@ -1,0 +1,20 @@
+{
+  "name": "gresm/mailer-client",
+  "description": "Client for ms-mailer service",
+  "keywords": [
+    "framework",
+    "laravel"
+  ],
+  "license": "MIT",
+  "require": {
+    "php": "^7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Gresm\\App\\": "src"
+    },
+    "files": [
+      "src/helpers.php"
+    ]
+  }
+}
