@@ -12,7 +12,7 @@
   },
   "autoload": {
     "psr-4": {
-      "satpro\\mailer_client\\": "src"
+      "Satpro\\Mailer": "src"
     }
   }
 }
