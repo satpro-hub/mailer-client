@@ -2,8 +2,8 @@
   "name": "satpro-hub/mailer-client",
   "description": "Client for ms-mailer service",
   "keywords": [
-    "framework",
-    "laravel"
+    "mailer",
+    "gresm"
   ],
   "license": "MIT",
   "require": {
