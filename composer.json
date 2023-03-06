@@ -11,10 +11,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Gresm\\App\\": "src"
-    },
-    "files": [
-      "src/helpers.php"
-    ]
+      "satpro\\mailer_client\\": "src"
+    }
   }
 }
