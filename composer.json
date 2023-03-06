@@ -1,13 +1,14 @@
 {
   "name": "satpro-hub/mailer-client",
   "description": "Client for ms-mailer service",
+  "type": "library",
   "keywords": [
     "mailer",
     "gresm"
   ],
   "license": "MIT",
   "require": {
-    "php": "^7.4 || ^8.0"
+    "php": "^7.4|^8.0"
   },
   "autoload": {
     "psr-4": {
